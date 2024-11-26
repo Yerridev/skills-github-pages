@@ -1,7 +1,6 @@
 ---
 title: Cookies, Sesiones y Autenticación
-author: Yerridev
-description: Aprendiendo php
+date: 2024-11-26
 ---
 
 Seguimiento a tus usuarios.
