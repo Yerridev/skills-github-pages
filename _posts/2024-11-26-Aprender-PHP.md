@@ -1,5 +1,5 @@
 ---
-title: "Introducciòn PHP"
+title: "Introducción PHP"
 date: 2024-11-26
 ---
 [Volver al índice](../index.md)
