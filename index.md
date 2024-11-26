@@ -1,6 +1,7 @@
 ---
 title: "Introducción PHP"
-date: 2024-11-26
+author: Yerridev
+description: Aprendiendo php
 ---
 
 ## Publicaciones
