@@ -4,4 +4,3 @@ plugins:
 title: PHP
 author: Yerridev
 
-@import "{{ site.theme }}";
