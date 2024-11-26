@@ -2,6 +2,7 @@
 title: "Introducciòn PHP"
 date: 2024-11-26
 ---
+[Volver al índice](../index.md)
 
 >[!tip] PHP
 >Es un lenguaje de programación que permite incorporar HTML.
